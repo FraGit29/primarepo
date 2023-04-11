@@ -2,7 +2,9 @@ print('Hello a tutti')
 print('Hello a tutti')
 print('Hello a tutti')
 print('Hello a tutti')
+print hello
 from PIL import Image
-img=Image.open('Cattura.jpg')
+img=Image.open('img/Cattura.jpg')
 img.show()
 
+python test.py  
